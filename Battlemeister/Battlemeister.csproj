@@ -46,6 +46,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AuctionInformation\AuctionApi.cs" />
+    <Compile Include="AuctionInformation\AuctionResponse.cs" />
     <Compile Include="IConfig.cs" />
     <Compile Include="ItemInformation\ItemApi.cs" />
     <Compile Include="ItemInformation\ItemResponse.cs" />
