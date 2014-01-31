@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Battlemeister", "Battlemeister\Battlemeister.csproj", "{EE2F46E9-F8C5-4493-8648-FB460E8DBBBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Battlemeister.Tests", "Battlemeister.Tests\Battlemeister.Tests.csproj", "{FCBD5654-7F3A-4155-B132-80E81FA7468C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE2F46E9-F8C5-4493-8648-FB460E8DBBBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE2F46E9-F8C5-4493-8648-FB460E8DBBBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE2F46E9-F8C5-4493-8648-FB460E8DBBBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE2F46E9-F8C5-4493-8648-FB460E8DBBBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCBD5654-7F3A-4155-B132-80E81FA7468C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCBD5654-7F3A-4155-B132-80E81FA7468C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCBD5654-7F3A-4155-B132-80E81FA7468C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCBD5654-7F3A-4155-B132-80E81FA7468C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
